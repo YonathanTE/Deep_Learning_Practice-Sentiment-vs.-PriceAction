@@ -76,14 +76,4 @@ For training, use at least 10 estimators for both models.
 
 - - -
 
-### Submission
-
-* Create Jupyter Notebooks for the homework and host the notebooks on GitHub.
-
-* Include a Markdown that summarizes your homework and include this report in your GitHub repository.
-
-* Submit the link to your GitHub project to Bootcamp Spot.
-
-- - -
-
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
